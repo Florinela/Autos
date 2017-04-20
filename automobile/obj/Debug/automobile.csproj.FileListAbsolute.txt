@@ -1,0 +1,6 @@
+D:\lucru\chestii\chestii\CII\PUI\Lab04\automobile\automobile\bin\Debug\automobile.exe.config
+D:\lucru\chestii\chestii\CII\PUI\Lab04\automobile\automobile\obj\Debug\automobile.csprojResolveAssemblyReference.cache
+D:\lucru\chestii\chestii\CII\PUI\Lab04\automobile\automobile\bin\Debug\automobile.exe
+D:\lucru\chestii\chestii\CII\PUI\Lab04\automobile\automobile\bin\Debug\automobile.pdb
+D:\lucru\chestii\chestii\CII\PUI\Lab04\automobile\automobile\obj\Debug\automobile.exe
+D:\lucru\chestii\chestii\CII\PUI\Lab04\automobile\automobile\obj\Debug\automobile.pdb
